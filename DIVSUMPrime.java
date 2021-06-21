@@ -4,7 +4,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.io.OutputStreamWriter;
 import java.util.Arrays;
-
+// https://www.spoj.com/problems/DIVSUM/
 public class DIVSUMPrime {
   public static void main(String[] args) throws NumberFormatException, IOException {
     
