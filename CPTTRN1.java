@@ -7,7 +7,7 @@ import java.io.OutputStreamWriter;
 // https://www.spoj.com/problems/CPTTRN1/
 public class CPTTRN1 {
     public static void main(String[] args) throws IOException {
-            BufferedReader br = new BufferedReader(new java.io.InputStreamReader(System.in));
+            BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
             int numOfTests = Integer.valueOf(br.readLine());
             String[] testCases = new String[numOfTests];
             for (int i = 0; i < numOfTests; i++) {
