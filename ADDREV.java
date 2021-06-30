@@ -3,7 +3,7 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
-
+// https://www.spoj.com/problems/ADDREV/
 public class ADDREV {
 
     public static void main(String[] args) throws IOException {
