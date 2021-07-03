@@ -3,6 +3,7 @@ import java.io.BufferedWriter;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
 import java.util.StringTokenizer;
+
 // https://www.spoj.com/problems/AMR10F/
 public class AMR10F {
 
@@ -20,8 +21,8 @@ public class AMR10F {
             int startNum = Integer.valueOf(st.nextToken());
             int diff = Integer.valueOf(st.nextToken());
             int result = startNum;
-            for (int j = 1; j <= piles; j++) {
-                result += j*diff;
+            for (int j = 1; j < piles; j++) {
+                result += startNum + j * diff;
             }
             bw.write(String.valueOf(result));
             bw.append("\n");
