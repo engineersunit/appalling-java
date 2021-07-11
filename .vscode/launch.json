@@ -1,0 +1,224 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch ADDREV",
+            "request": "launch",
+            "mainClass": "ADDREV",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch ADUN",
+            "request": "launch",
+            "mainClass": "ADUN",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch AE1B",
+            "request": "launch",
+            "mainClass": "AE1B",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch AMR10F",
+            "request": "launch",
+            "mainClass": "AMR10F",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch CPTTRN1",
+            "request": "launch",
+            "mainClass": "CPTTRN1",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch DIVSUMPrime",
+            "request": "launch",
+            "mainClass": "DIVSUMPrime",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch DOUGHNUT",
+            "request": "launch",
+            "mainClass": "DOUGHNUT",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch DivisorSum",
+            "request": "launch",
+            "mainClass": "DivisorSum",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch ELIS",
+            "request": "launch",
+            "mainClass": "ELIS",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch EZDIJKST",
+            "request": "launch",
+            "mainClass": "EZDIJKST",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch FCTRL",
+            "request": "launch",
+            "mainClass": "FCTRL",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch FCTRL2",
+            "request": "launch",
+            "mainClass": "FCTRL2",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch GNY07A",
+            "request": "launch",
+            "mainClass": "GNY07A",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch HELLOKIT",
+            "request": "launch",
+            "mainClass": "HELLOKIT",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch INTEST",
+            "request": "launch",
+            "mainClass": "INTEST",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch KNAPSACK",
+            "request": "launch",
+            "mainClass": "KNAPSACK",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch LGIC",
+            "request": "launch",
+            "mainClass": "LGIC",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch MIRRORED",
+            "request": "launch",
+            "mainClass": "MIRRORED",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch PRIME1",
+            "request": "launch",
+            "mainClass": "PRIME1",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch PROBLEM",
+            "request": "launch",
+            "mainClass": "PROBLEM",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch SIZECON",
+            "request": "launch",
+            "mainClass": "SIZECON",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch SMPWOW",
+            "request": "launch",
+            "mainClass": "SMPWOW",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch STRHH",
+            "request": "launch",
+            "mainClass": "STRHH",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sieve",
+            "request": "launch",
+            "mainClass": "Sieve",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch Sorting",
+            "request": "launch",
+            "mainClass": "Sorting",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch StringToken",
+            "request": "launch",
+            "mainClass": "StringToken",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch SumOfPrimeFactors",
+            "request": "launch",
+            "mainClass": "SumOfPrimeFactors",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch TESTINT",
+            "request": "launch",
+            "mainClass": "TESTINT",
+            "projectName": "appalling-java_873aa236"
+        },
+        {
+            "type": "java",
+            "name": "Launch TSORT",
+            "request": "launch",
+            "mainClass": "TSORT",
+            "projectName": "appalling-java_873aa236"
+        }
+    ]
+}
