@@ -25,7 +25,7 @@ public class FCTRL2 {
     }
 
     static BigDecimal getfactorial(BigDecimal n) {
-        if (n == BigDecimal.ONE) {
+        if (n.equals(BigDecimal.ONE)) {
             return n;
         } else {
             return n.multiply(getfactorial(n.subtract(BigDecimal.ONE)));
